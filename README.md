@@ -1,3 +1,3 @@
 # Teste
 Este repositório serve para testar
-![./avatars.jpg] (imagem teste)
+![avatars.jpg] (imagem teste)
